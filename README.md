@@ -13,7 +13,7 @@ Cura AI is a modern, responsive web application designed to help users understan
 
 Click the image below to watch a full video demonstration of the application's key features, from multi-step symptom entry and voice recognition to viewing AI-powered results and finding nearby hospitals.
 
-[![Cura AI Video Walkthrough](https://raw.githubusercontent.com/NasiraRiaz/AI-Symptom-Checker/main/projectshowcase/checkerpage.png)](https://github.com/NasiraRiaz/AI-Symptom-Checker/blob/main/projectshowcase/project-demo.mp4)
+[![Cura AI Video Walkthrough](https://github.com/NasiraRiaz/AI-Symptom-Checker/blob/main/projectshowcase/checkerpage.png?raw=true)](https://github.com/NasiraRiaz/AI-Symptom-Checker/blob/main/projectshowcase/project-demo.mp4)
 
 *(Note: GitHub may require you to download the video file to view it.)*
 
@@ -24,33 +24,33 @@ Click the image below to watch a full video demonstration of the application's k
 ### 1. Dynamic Homepage & AI Introduction
 A clean, professional landing page that introduces the user to the application's capabilities and provides a clear call-to-action.
 
-![Homepage Screenshot](https://raw.githubusercontent.com/NasiraRiaz/AI-Symptom-Checker/main/projectshowcase/homepage.png)
+![Homepage Screenshot](https://github.com/NasiraRiaz/AI-Symptom-Checker/blob/main/projectshowcase/homepage.png?raw=true)
 
 ### 2. AI Symptom Analysis & Multilingual TTS
 The core feature where users input symptoms via a multi-step form or voice commands (EN/UR). The results page displays the AI-generated condition and first-aid steps, with options to have the results read aloud in both English and Urdu.
 
-![Checker Page Screenshot](https://raw.githubusercontent.com/NasiraRiaz/AI-Symptom-Checker/main/projectshowcase/checkerpage.png)
+![Checker Page Screenshot](https://github.com/NasiraRiaz/AI-Symptom-Checker/blob/main/projectshowcase/checkerpage.png?raw=true)
 
 ### 3. Geolocation & Hospital Map
 Integrates the Geolocation API and Leaflet to find and display nearby hospitals and clinics based on the user's current location, with options to filter by specialty.
 
-![Map Screenshot](https://raw.githubusercontent.com/NasiraRiaz/AI-Symptom-Checker/main/projectshowcase/mappage.png)
+![Map Screenshot](https://github.com/NasiraRiaz/AI-Symptom-Checker/blob/main/projectshowcase/mappage.png?raw=true)
 
 <details>
 <summary><strong>Click to view screenshots of additional pages</strong></summary>
 <br>
   
 **About Page**
-![Screenshot of the About Page](https://raw.githubusercontent.com/NasiraRiaz/AI-Symptom-Checker/main/projectshowcase/about.png)
+![Screenshot of the About Page](https://github.com/NasiraRiaz/AI-Symptom-Checker/blob/main/projectshowcase/about.png?raw=true)
 
 **Blog Page**
-![Screenshot of the Blog Page](https://raw.githubusercontent.com/NasiraRiaz/AI-Symptom-Checker/main/projectshowcase/blog.png)
+![Screenshot of the Blog Page](https://github.com/NasiraRiaz/AI-Symptom-Checker/blob/main/projectshowcase/blog.png?raw=true)
 
 **Developer Page**
-![Screenshot of the Developer Page](https://raw.githubusercontent.com/NasiraRiaz/AI-Symptom-Checker/main/projectshowcase/developer.png)
+![Screenshot of the Developer Page](https://github.com/NasiraRiaz/AI-Symptom-Checker/blob/main/projectshowcase/developer.png?raw=true)
 
 **Contact Page**
-![Screenshot of the Contact Page](https://raw.githubusercontent.com/NasiraRiaz/AI-Symptom-Checker/main/projectshowcase/contact.png)
+![Screenshot of the Contact Page](https://github.com/NasiraRiaz/AI-Symptom-Checker/blob/main/projectshowcase/contact.png?raw=true)
 
 </details>
 
@@ -77,7 +77,7 @@ Integrates the Geolocation API and Leaflet to find and display nearby hospitals 
 -   **AI Integration:** Integrated the Hugging Face Inference API on the backend to send user symptoms to a large language model, which returns a likely medical condition.
 -   **Voice Recognition:** Implemented the browser's **Web Speech API** to enable voice-to-text transcription in both English (`en-US`) and Urdu (`ur-PK`), allowing for hands-free symptom entry.
 -   **Urdu Text-to-Speech (TTS):** Created a custom TTS endpoint on the backend that translates English analysis text to Urdu and synthesizes it into an audio file for seamless playback.
--   **Database:** Designed and connected a MongoDB database using Mongoose to store and serve static first-aid information.
+-   **Database:** Designed and connected a MongoDB database using Mongoose to store and serve static first-aid.
 -   **Geolocation & Maps:** Used the browser's Geolocation API to get user coordinates and the Overpass API to query OpenStreetMap for medical facilities, displayed using `react-leaflet`.
 -   **Client-Side Storage:** Used `idb-keyval` to create a search history feature, saving recent queries to the browser's IndexedDB for persistence.
 
