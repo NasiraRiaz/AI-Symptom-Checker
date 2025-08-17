@@ -97,6 +97,9 @@ Integrates the Geolocation API and Leaflet to find and display nearby hospitals 
     ```env
     MONGO_URI=your_mongodb_connection_string
     HUGGINGFACE_API_KEY=your_huggingface_api_key
+    GOOGLE_MAPS_API_KEY=your_google_maps_api_key_if_needed
+    DB_NAME=symptom-checker
+
     ```
 4.  Start the server: `node server.js`
 
