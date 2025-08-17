@@ -13,7 +13,7 @@ Cura AI is a modern, responsive web application designed to help users understan
 
 Click the image below to watch a full video demonstration of the application's key features, from multi-step symptom entry and voice recognition to viewing AI-powered results and finding nearby hospitals.
 
-[![Cura AI Video Walkthrough](projectshowcase/checkerpage.png)](projectshowcase/project-demo.mp4)
+[![Cura AI Video Walkthrough](https://github.com/NasiraRiaz/AI-Symptom-Checker/blob/main/projectshowcase/checkerpage.png?raw=true)](https://github.com/NasiraRiaz/AI-Symptom-Checker/blob/main/projectshowcase/project-demo.mp4)
 
 *(Note: GitHub may require you to download the video file to view it.)*
 
