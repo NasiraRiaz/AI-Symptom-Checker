@@ -16,23 +16,20 @@ Click the image below to watch a full video demonstration of the application's k
 
 ## Key Features & Screenshots
 
-1.  **Dynamic Homepage & AI Introduction**
+### 1. Dynamic Homepage & AI Introduction
+A clean, professional landing page that introduces the user to the application's capabilities and provides a clear call-to-action.
 
-    A clean, professional landing page that introduces the user to the application's capabilities and provides a clear call-to-action.
+![Homepage Screenshot](./frontend/projectshowcase/homepage.png)
 
-    ![Homepage Screenshot](./frontend/projectshowcase/homepage.png)
+### 2. AI Symptom Analysis & Multilingual TTS
+The core feature where users input symptoms via a multi-step form or voice commands (EN/UR). The results page displays the AI-generated condition and first-aid steps, with options to have the results read aloud in both English and Urdu.
 
-2.  **AI Symptom Analysis & Multilingual TTS**
+![Checker Page Screenshot](./frontend/projectshowcase/checkerpage.png)
 
-    The core feature where users input symptoms via a multi-step form or voice commands (EN/UR). The results page displays the AI-generated condition and first-aid steps, with options to have the results read aloud in both English and Urdu.
+### 3. Geolocation & Hospital Map
+Integrates the Geolocation API and Leaflet to find and display nearby hospitals and clinics based on the user's current location, with options to filter by specialty.
 
-    ![Checker Page Screenshot](./frontend/projectshowcase/checkerpage.png)
-
-3.  **Geolocation & Hospital Map**
-
-    Integrates the Geolocation API and Leaflet to find and display nearby hospitals and clinics based on the user's current location, with options to filter by specialty.
-
-    ![Map Screenshot](./frontend/projectshowcase/mappage.png)
+![Map Screenshot](./frontend/projectshowcase/mappage.png)
 
 <details>
 <summary><strong>Click to view screenshots of additional pages</strong></summary>
@@ -86,8 +83,6 @@ This project is a full-stack application built with the MERN stack and several m
     ```
     MONGO_URI=your_mongodb_connection_string
     HUGGINGFACE_API_KEY=your_huggingface_api_key
-    GOOGLE_MAPS_API_KEY=your_google_maps_api_key_if_needed
-    DB_NAME=symptom-checker
     ```
 4.  Start the server: `node server.js`
 
