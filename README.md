@@ -11,9 +11,9 @@ Cura AI is a modern, responsive web application designed to help users understan
 
 ## Video Walkthrough
 
-Click the image below to watch a full video demonstration of the application's key features.
+Click the image below to watch a full video demonstration of the application's key features, from multi-step symptom entry and voice recognition to viewing AI-powered results and finding nearby hospitals.
 
-[![Cura AI Video Walkthrough](https://raw.githubusercontent.com/NasiraRiaz/AI-Symptom-Checker/main/projectshowcase/checkerpage.png)](https://raw.githubusercontent.com/NasiraRiaz/AI-Symptom-Checker/main/projectshowcase/project-demo.mp4)
+[![Cura AI Video Walkthrough](https://github.com/NasiraRiaz/AI-Symptom-Checker/blob/main/projectshowcase/checkerpage.png?raw=true)](https://github.com/NasiraRiaz/AI-Symptom-Checker/blob/main/projectshowcase/project-demo.mp4)
 
 *(Note: GitHub may require you to download the video file to view it.)*
 
@@ -24,33 +24,33 @@ Click the image below to watch a full video demonstration of the application's k
 ### 1. Dynamic Homepage & AI Introduction
 A clean, professional landing page that introduces the user to the application's capabilities and provides a clear call-to-action.
 
-![Homepage Screenshot](./projectshowcase/homepage.png)
+![Homepage Screenshot](https://github.com/NasiraRiaz/AI-Symptom-Checker/blob/main/projectshowcase/homepage.png?raw=true)
 
 ### 2. AI Symptom Analysis & Multilingual TTS
 The core feature where users input symptoms via a multi-step form or voice commands (EN/UR). The results page displays the AI-generated condition and first-aid steps, with options to have the results read aloud in both English and Urdu.
 
-![Checker Page Screenshot](./projectshowcase/checkerpage.png)
+![Checker Page Screenshot](https://github.com/NasiraRiaz/AI-Symptom-Checker/blob/main/projectshowcase/checkerpage.png?raw=true)
 
 ### 3. Geolocation & Hospital Map
 Integrates the Geolocation API and Leaflet to find and display nearby hospitals and clinics based on the user's current location, with options to filter by specialty.
 
-![Map Screenshot](./projectshowcase/mappage.png)
+![Map Screenshot](https://github.com/NasiraRiaz/AI-Symptom-Checker/blob/main/projectshowcase/mappage.png?raw=true)
 
 <details>
 <summary><strong>Click to view screenshots of additional pages</strong></summary>
 <br>
   
 **About Page**
-![Screenshot of the About Page](./projectshowcase/about.png)
+![Screenshot of the About Page](https://github.com/NasiraRiaz/AI-Symptom-Checker/blob/main/projectshowcase/about.png?raw=true)
 
 **Blog Page**
-![Screenshot of the Blog Page](./projectshowcase/blog.png)
+![Screenshot of the Blog Page](https://github.com/NasiraRiaz/AI-Symptom-Checker/blob/main/projectshowcase/blog.png?raw=true)
 
 **Developer Page**
-![Screenshot of the Developer Page](./projectshowcase/developer.png)
+![Screenshot of the Developer Page](https://github.com/NasiraRiaz/AI-Symptom-Checker/blob/main/projectshowcase/developer.png?raw=true)
 
 **Contact Page**
-![Screenshot of the Contact Page](./projectshowcase/contact.png)
+![Screenshot of the Contact Page](https://github.com/NasiraRiaz/AI-Symptom-Checker/blob/main/projectshowcase/contact.png?raw=true)
 
 </details>
 
