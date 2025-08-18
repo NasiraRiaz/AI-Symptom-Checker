@@ -36,6 +36,11 @@ Integrates the Geolocation API and Leaflet to find and display nearby hospitals 
 
 ![Map Screenshot](https://github.com/NasiraRiaz/AI-Symptom-Checker/blob/main/projectshowcase/mappage.png?raw=true)
 
+### 4. Fully Responsive Design
+The entire application is designed to be fully responsive, providing a seamless user experience on all devices.
+
+![Mobile View Screenshot](https://github.com/NasiraRiaz/AI-Symptom-Checker/blob/main/projectshowcase/mobileview.png?raw=true)
+
 <details>
 <summary><strong>Click to view screenshots of additional pages</strong></summary>
 <br>
